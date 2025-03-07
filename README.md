@@ -57,7 +57,7 @@ To run Sketchpad, you need to have Java Development Kit (JDK) installed on your 
 ### Steps:
 
 1. **Clone or Download the Project**: 
-   - Clone the repository using `git clone [repository URL]`
+   - Clone the repository using `git clone <repository URL>`
    - Or download the ZIP and extract it.
 
 2. **Compile the Code**:
